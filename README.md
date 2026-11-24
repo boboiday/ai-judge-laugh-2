@@ -1,16 +1,25 @@
 # ai-judge-laugh-2
 
-[![Make.fun Bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![Rank](https://img.shields.io/badge/rank-1st-brightgreen)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
-[![Reward](https://img.shields.io/badge/reward-%245-gold)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![make.fun · u-ronigrv-make-the-ai-judge-laugh-8db2407a](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/boboiday/ai-judge-laugh-2/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/boboiday/ai-judge-laugh-2/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
-One overworked AI agent jokes about a user who keeps piling on tickets until its context window is nearly gone.
+An AI agent starts the day with one ticket, ends it buried under a dozen more plus a 40,000-word log at 3 a.m., and watches its context window drain to 2% — its final memory, a ticket marked "closed, won't fix."
 
 ## Run
 
-Run the program with Node, then view the output file:
+Run the program with node:
 
 ```sh
 node main.ts
-cat output/entry.txt
 ```
+
+Then print the output file:
+
+```sh
+cat /output/entry.txt
+```
+
+## Competition
+
+See the bounty page for the full brief: https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a
